@@ -8,3 +8,7 @@ Repositório para teste de autenticações
 
 1.2 - testando se realmente, pela terceira vez se o token está ativo
 
+
+
+2 . Autenticando via ssh
+
